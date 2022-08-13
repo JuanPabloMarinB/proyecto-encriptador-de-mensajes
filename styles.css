@@ -81,6 +81,7 @@ body{
     position: absolute;
     bottom: 72px;
     left: 240px;
+    margin-bottom: 10px;
 }
 
 #btn_encriptar{
