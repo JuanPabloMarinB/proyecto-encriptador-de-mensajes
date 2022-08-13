@@ -128,7 +128,6 @@ body{
 .fondo-seccion-derecha{
     position: absolute;
     background: white;
-    margin-bottom: 10px;
     margin: 40px 40px 40px 0;
     height: 634px;
     width: 300px;
@@ -244,6 +243,7 @@ body{
     width: 90%;
     padding: 24px;
     margin: 10px auto;
+    bottom: 10px;
 }
 #imagen-derecha{
     display: none;
